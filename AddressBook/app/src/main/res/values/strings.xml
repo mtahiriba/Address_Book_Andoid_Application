@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string-array name="names">
+        <item>Muhammad Tahir</item>
+        <item>Areej Atta</item>
+        <item>Arslan Bhutto</item>
+    </string-array>
+</resources>
